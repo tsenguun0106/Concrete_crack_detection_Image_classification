@@ -25,8 +25,11 @@ Model architecture:
 
 <img src="https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/3f416ca3-8dea-4ca6-bc79-1dcd00da9b7b6" width="350px">
 
+**Below, I display 4 misclassified cases:** 
 
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/61e50207-6b90-40c6-b348-f2cc902bc262)
 
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/5e9c9713-1ff0-4dfb-8f41-3d81f079e11f)
 
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/83420a9a-3308-44e1-bf0a-d0eeeb1ae49c)
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/7c30b583-27ca-4739-b347-bfea11a7a06e)
