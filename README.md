@@ -8,22 +8,22 @@ We use the pre-trained RESNET18 model for this image classification problem:
 
 We freeze the parameters of this RESNET18 model and modify the final output layer to predict the concrete crack detection problem. 
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/adae3ead-f22e-4cfb-a024-5ea156d1a5b9)
+<img src="https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/adae3ead-f22e-4cfb-a024-5ea156d1a5b9" width="350px">
+
 
 Model architecture: 
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/bc1a2b55-6ea9-43e6-a970-b7a12cd2f5b1)
+<img src="https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/bc1a2b55-6ea9-43e6-a970-b7a12cd2f5b1" width="300px">
 
 1. Cross Entropy is used as the loss function.
 2. Batch size is 100 and Adam optimizer is used. 
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/11b59422-6220-4ade-8183-66cb0aa47ca6)
+<img src="https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/11b59422-6220-4ade-8183-66cb0aa47ca6" width="350px">
 
 1. Accuracy of the model is 99.51%.
 2. Loss function convergence is plotted below. 
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/3f416ca3-8dea-4ca6-bc79-1dcd00da9b7b)
-
+<img src="https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/3f416ca3-8dea-4ca6-bc79-1dcd00da9b7b6" width="350px">
 
 
 
