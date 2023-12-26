@@ -14,6 +14,15 @@ Model architecture:
 
 ![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/bc1a2b55-6ea9-43e6-a970-b7a12cd2f5b1)
 
+1. Cross Entropy is used as the loss function.
+2. Batch size is 100 and Adam optimizer is used. 
+
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/11b59422-6220-4ade-8183-66cb0aa47ca6)
+
+1. Accuracy of the model is 99.51%.
+2. Loss function convergence is plotted below. 
+
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/3f416ca3-8dea-4ca6-bc79-1dcd00da9b7b)
 
 
 
