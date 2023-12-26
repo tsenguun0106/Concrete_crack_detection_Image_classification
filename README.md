@@ -41,7 +41,10 @@ Classified successfully as cracked:
 
 ![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/05a92934-8ce0-4a99-a1cd-a61b53250177)
 
-Classified successfully as cracked: 
+Classified successfully as non-cracked: 
 
 ![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/b96ca640-862f-4b27-849b-269b61222e43)
 
+# Summary: 
+
+Here, I demonstrated how to detect successfully the crack from the concrete images using the pre-trained RESNET18 model. Overall model accuracy is 99.51%. The cases, where the model was not accurate, were also displayed. We can see that the concrete has diverse textures and this diversity in texture can misguide the model in some cases. 
