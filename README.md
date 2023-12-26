@@ -4,7 +4,7 @@
 
 We use the pre-trained RESNET18 model for this image classification problem: 
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/80f17a30-562d-4a4b-a138-5d7012af28fc)
+<img src="https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/80f17a30-562d-4a4b-a138-5d7012af28fc" width="300px">
 
 We freeze the parameters of this RESNET18 model and modify the final output layer to predict the concrete crack detection problem. 
 
