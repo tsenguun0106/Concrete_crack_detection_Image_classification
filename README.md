@@ -37,5 +37,11 @@ Model architecture:
 
 **Below, I plot some examples where the model correctly classified the concrete images as cracked.**
 
+Classified successfully as cracked: 
 
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/05a92934-8ce0-4a99-a1cd-a61b53250177)
+
+Classified successfully as cracked: 
+
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/b96ca640-862f-4b27-849b-269b61222e43)
 
