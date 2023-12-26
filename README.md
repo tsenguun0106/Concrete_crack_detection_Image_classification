@@ -27,9 +27,15 @@ Model architecture:
 
 **Below, I display 4 misclassified cases:** 
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/61e50207-6b90-40c6-b348-f2cc902bc262)
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/3e2ff3e4-af53-42af-b9b4-dea957aa0ddf)
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/5e9c9713-1ff0-4dfb-8f41-3d81f079e11f)
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/5fd09370-2a2d-4585-92f4-0768be06c4dc)
 
-![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/83420a9a-3308-44e1-bf0a-d0eeeb1ae49c)
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/ec04544f-1e13-47e4-90d8-d2afb3198494)
+
+![image](https://github.com/tsenguun0106/Concrete_crack_detection_Image_classification/assets/60633314/07c44eca-f6e1-4c03-be0f-81170de7fe18)
+
+**Below, I plot some examples where the model correctly classified the concrete images as cracked.**
+
+
 
